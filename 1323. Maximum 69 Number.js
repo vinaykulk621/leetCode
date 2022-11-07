@@ -15,5 +15,5 @@ var maximum69Number  = function(num) {
         }
     }
     num=num.join("")
-    return parseInt(num,10)
+    return parseInt(num)
 };
